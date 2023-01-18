@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Контрольнаяработа_cikli", "Контрольнаяработа_cikli.pyproj", "{2BE44C12-BB7D-407E-A53A-D9FAB1926A92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE44C12-BB7D-407E-A53A-D9FAB1926A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE44C12-BB7D-407E-A53A-D9FAB1926A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3244EE88-E6DC-4C25-87EC-4B85FD9ADBB1}
+	EndGlobalSection
+EndGlobal
